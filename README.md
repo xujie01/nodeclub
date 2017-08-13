@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-nodeclub 是是一个基本的博客系统，包含文章发布， 关注，评论等功能。MagicGIS 社区是一个用 Node.js 和 MongoDB 开发的开源社区软件，MagicGIS 是基于 Node Club 的 GIS 中文技术社区。
+nodeclub 是一个基本的博客系统，包含文章发布， 关注，评论等功能。MagicGIS 社区是一个用 Node.js 和 MongoDB 开发的开源社区软件，MagicGIS 是基于 Node Club 的 GIS 中文技术社区。
 
 ### 技术选型
 
